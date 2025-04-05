@@ -1,6 +1,7 @@
 ---
 title: Scope
 layout: home
+nav_order: 2
 ---
 
 # Scope

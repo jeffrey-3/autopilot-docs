@@ -5,11 +5,7 @@ layout: home
 
 # Autopilot
 
-Test text paragraph
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+The goal is to write simple code for an RC plane autopilot that is easy to understand, easy to trace, and follows best practices for safety-critical embedded firmware.
+- For small hand-launched and belly landing fixed-wing UAVs
+- Automatic takeoff, waypoint following, and landing
+- The GCS is mandatory for operation like most military UAVs

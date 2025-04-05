@@ -27,6 +27,7 @@ The goal is to write simple code for an RC plane autopilot that is easy to under
 - Only Elevator and Rudder control
 - If baro-only, you can set landing altitude
 - Does not handle when RC transmitter not connected (if flying without autopilot and this happens it would crash anyways)
+- Rangefinder is used continously
 
 ## Purpose of Scope
 
